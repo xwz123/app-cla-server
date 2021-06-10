@@ -2,3 +2,7 @@ app-cla-server
 swagger
 lastupdate.tmp
 .idea
+*.exe
+swagger.zip
+conf/gmail.json
+conf/org_signature_pdf
